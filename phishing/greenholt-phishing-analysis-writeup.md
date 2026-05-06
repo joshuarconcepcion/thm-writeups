@@ -73,7 +73,7 @@ v=DMARC1; p=quarantine; fo=1
 ```
 
 - Domain does not designate the obfuscated IP to send mail on it's behalf. 
-- "dmarc=unknown" shows there is no policy configured to reject or quarantine emails that fail SPF or DKIM checks, yet DMARC check shows fo=1, meaning it should generate a report when SPF/DKIM fails. This findings contradict each other.
+- "dmarc=unknown" shows there is no policy configured to reject or quarantine emails that fail SPF or DKIM checks, yet DMARC check shows fo=1, meaning it should generate a report when SPF/DKIM fails. These findings contradict each other.
 
 ### Step 6: Additional Findings
 - Source IP shown further down in message source
