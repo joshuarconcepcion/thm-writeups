@@ -23,6 +23,7 @@ SOC Level 1 and building toward a SOC analyst role.
 | Room | Difficulty | Topics Covered |
 |---|---|---|
 | [The Greenholt Phish](phishing/phishing-analysis-writeup.md) | Easy | Email header analysis, SPF/DMARC, attachment forensics, VirusTotal |
+| [Snapped Phish-ing Line](phishing/snapped-phishing-analysis-writeup.md) | Easy | Attachment forensics, VirusTotal |
 
 ---
 

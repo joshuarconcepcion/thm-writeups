@@ -19,8 +19,6 @@ Apply knowledge of phishing attack techniques, as well as CTI tools to investiga
 
 ## Methodology
 
-![Email to analyze](/phishing/phishing-images/greenholt-phishing-email.png)
-
 ### Step 1: Initial Triage
 I opened the folder containing 5 different e-mails to analyze, and quickly gave each e-mail file a quick lookover.
 
